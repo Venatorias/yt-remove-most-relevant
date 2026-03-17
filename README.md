@@ -5,3 +5,5 @@ Installation:
 https://www.tampermonkey.net/scripts.php#gh
 
 Copy the yt-remove-most-relevant.js script and paste it into a new tampermonkey script.
+
+Note: This was only tested in Firefox but should work in whatever browser as long as Tampermonkey is available
